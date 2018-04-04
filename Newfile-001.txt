@@ -1,1 +1,0 @@
-A: git text file line 1.
